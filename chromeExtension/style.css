@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500');
+
+body{
+    
+    width:390px;
+    min-height:50px;
+    background: radial-gradient(rgb(82, 171, 230),rgb(2, 13, 75));
+    /* display:flex; */
+    /* justify-content: center; */
+    text-align: center;
+    
+}
+
+p{
+    font-family: 'Dancing Script', cursive;
+    color: rgb(248, 217, 42);
+    font-size: 2rem;
+    border-radius: 10px;
+    font-stretch: condensed;
+    box-shadow: -7px 5px 5px -3px rgba(231, 231, 235, 0.4), 0px 5px 10px rgba(235, 223, 57, 0.6), 7px 5px 5px -3px rgba(5, 3, 122, 0.4),0px -5px 10px rgba(194, 57, 235, 0.6);
+}
+h4{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.3rem;
+    color:black;
+    text-shadow:
+      0 0 6px rgba(202,228,225,0.98),
+      0 0 30px rgba(241, 247, 246, 0.42),
+      0 0 12px rgba(248, 249, 250, 0.58),
+      0 0 22px rgba(234, 235, 236, 0.84),
+      0 0 38px rgba(234, 237, 240, 0.88),
+      0 0 60px rgb(237, 240, 243);
+}
+
+
